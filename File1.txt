@@ -1,2 +1,6 @@
 This is some text
+
 Adding this change to the main branch
+
+Adding this change on the conflict branch
+
