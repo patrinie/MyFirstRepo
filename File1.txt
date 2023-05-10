@@ -4,3 +4,5 @@ Adding this change to the main branch
 
 Adding this change on the conflict branch
 
+Developers developers developers
+Fixing an issue on the main branch
